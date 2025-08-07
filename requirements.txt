@@ -1,0 +1,15 @@
+transformers
+sentence-transformers
+faiss-cpu
+nltk
+spacy
+pdfplumber
+python-docx
+unstructured
+streamlit
+huggingface-hub
+python-dotenv
+langchain_community
+langchain_huggingface
+langchain_core
+langchain_groq
